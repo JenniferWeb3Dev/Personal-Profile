@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 style="color:#00ffcc; font-size:3rem;">👩‍💻 Jennifer Asare | Web3 & Blockchain Developer</h1>
-  <p style="color:#cccccc; font-size:16px; max-width:800px;">
-    Passionate about <b>blockchain, smart contracts</b>, and <b>zero-knowledge proofs</b>.<br>
-    Turning complex ideas into <b>scalable decentralized apps</b> with <b>clean UI/UX</b> and secure architecture.<br>
-    Focused on <b>Ethereum, zkSync, Noir</b>, and <b>advanced Web3 wallet security</b>.
+  <h1>👩‍💻 Jennifer Asare | Web3 & Blockchain Developer</h1>
+  <p>
+    Passionate about <b>blockchain</b>, <b>smart contracts</b>, and <b>zero-knowledge proofs</b>.<br>
+    Turning complex ideas into <b>scalable decentralized apps</b> with clean UI/UX and secure architecture.<br>
+    Focused on <b>Ethereum, zkSync, Noir</b>, and advanced Web3 wallet security.
   </p>
 </div>
 
@@ -11,47 +11,40 @@
 
 ## 🔥 Skills & Technologies
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+**Blockchain & Web3:**  
+Solidity | Foundry | Noir | zk Circuits | Ethereum | zkSync | Chainlink | Alchemy | Hardhat | Foundry Fundamentals  
 
-<!-- Blockchain & Web3 -->
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Solidity</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Foundry</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Noir</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">zk Circuits</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Ethereum</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">zkSync</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Chainlink</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Alchemy</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Hardhat</kbd>
-<kbd style="background:#1e1e1e; color:#00ffcc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#00ffcc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#00ffcc'; this.style.transform='scale(1)'">Foundry Fundamentals</kbd>
+**Frontend:**  
+React | Next.js | Vue | Nuxt.js | Angular | Svelte | Tailwind CSS | Material UI | Bootstrap | Vite  
 
-<!-- Frontend -->
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">React</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Next.js</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Vue</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Nuxt.js</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Angular</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Svelte</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Tailwind CSS</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Material UI</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Bootstrap</kbd>
-<kbd style="background:#1e1e1e; color:#ff99cc; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ff99cc'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ff99cc'; this.style.transform='scale(1)'">Vite</kbd>
+**Backend:**  
+Node.js | Express | NestJS | Python | Django | FastAPI | Flask  
 
-<!-- Backend -->
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">Node.js</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">Express</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">NestJS</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">Python</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">Django</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">FastAPI</kbd>
-<kbd style="background:#1e1e1e; color:#99ccff; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#99ccff'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#99ccff'; this.style.transform='scale(1)'">Flask</kbd>
+**Databases & DevOps:**  
+PostgreSQL | MySQL | MongoDB | Redis | SQLite | Firebase | Supabase  
 
-<!-- Databases & DevOps -->
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">PostgreSQL</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">MySQL</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">MongoDB</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">Redis</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">SQLite</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">Firebase</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background='#ffcc66'; this.style.color='#1e1e1e'; this.style.transform='scale(1.1)'" onmouseout="this.style.background='#1e1e1e'; this.style.color='#ffcc66'; this.style.transform='scale(1)'">Supabase</kbd>
-<kbd style="background:#1e1e1e; color:#ffcc66; padding:5px 12px; border-radius:8px; transition: all 0.3s;" onmouseover="this.style.background
+---
+
+## 🎓 Certifications
+
+- Blockchain Basics  
+- Noir Programming & ZK Circuits  
+- Advanced Foundry  
+- Foundry Fundamentals  
+- Web3 Wallet Security (Basic & Advanced)  
+- Chainlink Fundamentals  
+- Fundamentals of zk Proofs  
+- Solidity Smart Contract Development  
+- Alchemy (Upcoming)
+
+---
+
+## 🌐 Connect with Me
+
+[📧 Email](mailto:jensa397@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/jennifer-asare)
+
+---
+
+<div align="center">
+  <p>✨ Fun fact: Caffeine + Lo-Fi beats fuel my coding sessions ☕🎧</p>
+</div>
