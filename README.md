@@ -44,7 +44,7 @@ Always learning. Always building. ⚡
 ### 🎓 **Certifications**
 
 Blockchain Basics 🧱 | Noir Programming & ZK Circuits ⚫ | Advanced Foundry 🔥 | Foundry Fundamentals ⚙️  
-Web3 Wallet Security 🛡️ | Chainlink Fundamentals 🔗 | zk Proofs 🧮 | Solidity Smart Contract Dev 💡 | Alchemy (Upcoming) 🚀
+Web3 Wallet Security 🛡️ | Chainlink Fundamentals 🔗 | zk Proofs 🧮 | Solidity Smart Contract Dev 💡 | Alchemy (Upcoming) 🚀  | Curveswap
 
 ---
 
